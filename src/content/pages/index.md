@@ -1,9 +1,9 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Diego de Oliveira da Silva
+tagline: Biólogo - Esp. Gestão Ambiental (ISO 14001) - Msc Biologia Animal - UFRGS
+featuredImage: /assets/summary_dos_500px.png
 cta:
   ctaText: Know more
   ctaLink: /about
