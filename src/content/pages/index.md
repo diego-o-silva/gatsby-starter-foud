@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Diego de Oliveira da Silva
 tagline: Biólogo - Esp. Gestão Ambiental (ISO 14001) - Msc Biologia Animal - UFRGS
-featuredImage: /assets/summary_dos.png
+featuredImage: /assets/summary_dos_500px.png
 cta:
   ctaText: Saiba mais
   ctaLink: Sobre Mim
