@@ -8,12 +8,10 @@ cta:
   ctaText: Saiba mais
   ctaLink: Sobre Mim
 ---
-Biólogo, Gaúcho e Missioneiro nascido em São Luiz Gonzaga-RS, procuro constantemente adquirir conhecimento para entender e compreender os processos ambientais e as causas e consequências de nossa Crise Ambiental. Somente assim
-poderemos mitigá-las.  
-**Principais área de concentração:**
-Biologia  Animal, Biologia da Polinização, Conservação da 
-Biodiversidade, Ecologia e Reestruturação e Manejo de Ecossistemas Terrestres.
+Brasileiro, Gaúcho e Missioneiro.
+
+Como biólogo procuro constantemente adquirir conhecimento afim de entender e compreender os processos ambientais, causas e consequências da atual Crise Ambiental. Acredito que somente assim poderemos mitigá-las.
 
 *Biólogo Certificado e Registrado*
 
-![Registrado e Certificador](/assets/registrado-e-licenciado.png "Registrado e Certificador")
+![](/assets/registrado-e-licenciado.png)
