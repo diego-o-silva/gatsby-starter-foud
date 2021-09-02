@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Biólogo Diego O. Silva",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
+    "description": "Built with Gatsby and Netlify. Made and edited by Stackrole and D.O.S. - 2021",
     "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
+    "image": "/assets/bee_mapa.png",
+    "iconimage": "/assets/bee_mapa_icone_50x50.png",
     "twitterUsername": "@stackrole"
   },
-  "ga": "UA-XXXXXXXXX-X"
+  "ga": "UA-285072167"
 }
