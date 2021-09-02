@@ -7,7 +7,7 @@ tagline: Biólogo CRBio 3 (101.678)     Esp. Gestão Ambiental (ISO
 featuredImage: /assets/summary_dos_50-.png
 cta:
   ctaText: Saiba mais
-  ctaLink: Sobre Mim
+  ctaLink: about
 ---
 Brasileiro, Gaúcho e Missioneiro.
 
