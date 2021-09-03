@@ -12,6 +12,7 @@ import {
   RiRssFill,
   RiGithubFill,
   RiTelegramFill,
+  RiWhatsappFill,
   RiPinterestFill,
   RiSnapchatFill,
   RiSkypeFill,
@@ -163,9 +164,9 @@ const HomePage = ({ data }) => {
         ) : (
           ""
         )}
-        {icons.icon === "dribbble" ? (
+        {icons.icon === "whatsapp" ? (
           <Link to={icons.url} target="_blank">
-            <RiDribbbleFill />
+            <RiWhatsappFill />
           </Link>
         ) : (
           ""
