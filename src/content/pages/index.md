@@ -8,9 +8,9 @@ cta:
   ctaText: Saiba mais
   ctaLink: about
 ---
-Brasileiro, Gaúcho e Missioneiro.
+Brasileiro, Gaúcho e Missioneiro.  
 
-Como biólogo procuro constantemente adquirir conhecimento afim de entender e compreender os processos ambientais, causas e consequências da atual Crise Ambiental. Acredito que somente assim poderemos mitigá-las.
+Como biólogo procuro constantemente adquirir conhecimento afim de entender e compreender os processos ambientais, causas e consequências da atual Crise Ambiental. Acredito que somente assim poderemos mitigá-las.  
 
 *Biólogo Certificado e Registrado*
 
