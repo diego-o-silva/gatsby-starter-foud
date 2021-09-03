@@ -15,6 +15,10 @@
     {
       "icon": "dribbble",
       "url": "https://api.whatsapp.com/send?phone=+5555991561370"
+    },
+    {
+      "url": "static/assets/PlataformaLattes_MOD.jpg",
+      "icon": "rss"
     }
   ]
 }
