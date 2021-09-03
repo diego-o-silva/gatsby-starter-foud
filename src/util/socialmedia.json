@@ -11,6 +11,10 @@
     {
       "icon": "telegram",
       "url": "https://t.me/diego_o_silva"
+    },
+    {
+      "icon": "skype",
+      "url": "https://api.whatsapp.com/send?phone=+5555991561370"
     }
   ]
 }
