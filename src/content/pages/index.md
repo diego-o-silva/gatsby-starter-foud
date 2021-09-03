@@ -2,9 +2,8 @@
 template: index-page
 slug: /
 title: Diego de Oliveira da Silva
-tagline: Biólogo CRBio 3 (101.678)     Esp. Gestão Ambiental (ISO
-  14001)       Msc Biologia Animal - UFRGS
-featuredImage: /assets/summary_dos_50-.png
+tagline: Biólogo - Esp. Gestão Ambiental (ISO 14001) - Msc Biologia Animal
+featuredImage: /assets/eu_35x45_png.png
 cta:
   ctaText: Saiba mais
   ctaLink: about
@@ -15,4 +14,4 @@ Como biólogo procuro constantemente adquirir conhecimento afim de entender e co
 
 *Biólogo Certificado e Registrado*
 
-![](/assets/registrado_licenciado_50-.png)
+![](/assets/certificado_registrado_2.png)
