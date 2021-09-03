@@ -1,14 +1,8 @@
 ---
 template: about-page
 slug: /about
-title: Um pouco Sobre Mim
+title: Áreas de interesse
 ---
 **Principais área de concentração:**
 
-Biologia Animal e Biologia da Polinização
-
-Conservação da Biodiversidade
-
-Ecologia, Reestruturação e Manejo de Ecossistemas Terrestres.
-
-![áreas de concentração](/assets/summary_novo.png "Toys")
+![](/assets/summary_png_80x150.png "Áreas de Concentração")
