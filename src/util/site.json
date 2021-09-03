@@ -2,9 +2,9 @@
   "meta": {
     "title": "Biólogo Diego O. Silva",
     "titleTemplate": "%s",
-    "description": "Built with Gatsby and Netlify. Made and edited by Stackrole and D.O.S. - 2021",
+    "description": "Built with Gatsby and Netlify. \nMade and edited by Stackrole and D.O.S. - 2021",
     "siteUrl": "https://bio-diego-silva-roxo.netlify.app/",
-    "image": "/assets/bee_mapa.png",
+    "image": "/assets/honey-bee.png",
     "iconimage": "/assets/honey-bee.png",
     "twitterUsername": ""
   },
