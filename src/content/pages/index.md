@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Diego de Oliveira da Silva
 tagline: Biólogo - Esp. Gestão Ambiental (ISO 14001) - Msc Biologia Animal
-featuredImage: /assets/pp.jpg
+featuredImage: /assets/eu_35x45_png.png
 cta:
   ctaText: Saiba mais
   ctaLink: about
